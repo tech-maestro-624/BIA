@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Custom smooth scrolling styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+}
