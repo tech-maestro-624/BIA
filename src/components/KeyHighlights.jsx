@@ -33,7 +33,7 @@ const KeyHighlights = () => {
         <img 
           src="/src/assets/key-highlights/hand.png" 
           alt="Hand pointing" 
-          className="w-16 h-16 lg:w-20 lg:h-20"
+          className="hidden md:flex w-16 h-16 lg:w-20 lg:h-20"
         />
       </div>
 

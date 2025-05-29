@@ -59,13 +59,13 @@ const FAQ = () => {
             </div>
             
             {/* Bottom Image */}
-            <div className="relative overflow-hidden rounded-3xl shadow-xl">
+            {/* <div className="relative overflow-hidden rounded-3xl shadow-xl">
               <img 
                 src="/src/assets/faqs/Img - thumb_mask-group.webp"
                 alt="Data Science Team"
                 className="w-full h-auto"
               />
-            </div>
+            </div> */}
           </div>
 
           {/* Right Side - FAQ Content */}
